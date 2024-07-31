@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chiranjeevi R</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="350" border-radius="10px" src="https://miro.medium.com/v2/resize:fit:1358/1*kIacWWXjfYBFXqIXhIuCXQ.gif">
-- 🔭 I’m currently Studying **BCA [Bachelor of Computer Applications]**
+
+- 🔭 I’m currently Studying **BCA [Bachelor of Computer Applicatios]**
 
 - 📫 How to reach me **chiru.jcl.1004@gmail.com**
 
